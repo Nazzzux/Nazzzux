@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=6F42C1&vCenter=true&random=false&width=374&height=45&lines=Hello+there;This+is+Oleksiy+Rochniak!;May+the+Force+Be+With+You+%3A)" alt="This is Oleksiy Rochniak" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=500&color=6F42C1&vCenter=true&random=false&width=374&height=45&lines=Hello+there;This+is+Oleksiy+Rochniak!;May+the+Force+Be+With+You+%3A)" alt="This is Oleksiy Rochniak" /></a>
 
 
 ### A passionate frontend developer from Ukraine
